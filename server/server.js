@@ -89,6 +89,12 @@ app.post("/orders", (req, res) => {
   res.json(newOrder);
 });
 
+// --- Users ---
+app.get("/users", (req, res) => {
+  const users = readData("users");
+  res.json(users);
+});
+
 // Start server
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
