@@ -1,0 +1,335 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "role": "user",
+      "email": "niranjan@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "1757797462960",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "id": "1757798541140",
+      "name": "nikky",
+      "email": "nikky@gmail.com",
+      "password": "nikky",
+      "role": "user"
+    },
+    {
+      "id": "1757798610700",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "id": "1757798731753",
+      "name": "manjula",
+      "email": "manju@gmail.com",
+      "password": "manju",
+      "role": "user"
+    },
+    {
+      "id": "1757798800704",
+      "name": "chid",
+      "email": "chid@gmail.com",
+      "password": "chid",
+      "role": "user"
+    },
+    {
+      "id": "1757800340677",
+      "name": "nirry",
+      "email": "nirry@gmail.com",
+      "password": "nirry",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "27a6",
+      "name": "skirt",
+      "price": "999",
+      "description": "nice skirt",
+      "category": "Women",
+      "image": "https://cdn.pixabay.com/photo/2016/07/16/14/14/dress-1522017_640.jpg"
+    },
+    {
+      "id": "a6e1",
+      "name": "top",
+      "price": "500",
+      "description": "good top",
+      "category": "Women",
+      "image": "https://cdn.pixabay.com/photo/2015/01/12/10/44/woman-597173_640.jpg"
+    },
+    {
+      "id": "ab3b",
+      "name": "saree",
+      "price": "1000",
+      "description": "nice saree",
+      "category": "Women",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHp_aMM7WIYQBTWJNHHLoC8f2yYkacq8ORQ&s"
+    },
+    {
+      "id": "a851",
+      "name": "watch",
+      "price": "5000",
+      "description": "nice watch",
+      "category": "Men",
+      "image": "https://cdn.pixabay.com/photo/2014/08/05/10/31/waiting-410328_640.jpg"
+    },
+    {
+      "id": "cf15",
+      "name": "Hat",
+      "price": "499",
+      "description": "good hat",
+      "category": "Kids",
+      "image": "https://cdn.pixabay.com/photo/2020/03/11/10/08/camera-4921646_640.jpg"
+    },
+    {
+      "id": "18cf",
+      "name": "cloths for kids",
+      "price": "1999",
+      "description": "get cloths for kids",
+      "category": "Kids",
+      "image": "https://cdn.pixabay.com/photo/2017/11/06/13/45/cap-2923682_640.jpg"
+    },
+    {
+      "id": "5c07",
+      "name": "shirt",
+      "price": "599",
+      "description": "nice shirt",
+      "category": "Kids",
+      "image": "https://cdn.pixabay.com/photo/2023/08/24/01/01/boy-8209561_640.jpg"
+    },
+    {
+      "id": "502d",
+      "name": "jeans",
+      "price": "999",
+      "description": "nice jeans",
+      "category": "Men",
+      "image": "https://cdn.pixabay.com/photo/2017/12/30/22/07/jeans-3051102_640.jpg"
+    },
+    {
+      "id": "5ec9",
+      "name": "joket",
+      "price": "1299",
+      "description": "good jaket",
+      "category": "Men",
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/18/49/man-1283576_1280.jpg"
+    },
+    {
+      "id": "d753",
+      "name": "Blazer",
+      "price": "2999",
+      "description": "good quality product",
+      "category": "Men",
+      "image": "https://cdn.pixabay.com/photo/2021/10/21/05/15/man-6727989_640.jpg"
+    },
+    {
+      "id": "bef0",
+      "name": "dress",
+      "price": "899",
+      "description": "nice dress",
+      "category": "Women",
+      "image": "https://cdn.pixabay.com/photo/2017/11/02/03/14/daughter-of-vietnam-2910041_640.jpg"
+    },
+    {
+      "id": "0bf3",
+      "name": "t shirt",
+      "price": "499",
+      "description": "kids t shirt",
+      "category": "Kids",
+      "image": "https://cdn.pixabay.com/photo/2022/05/07/11/30/boy-7180054_640.jpg"
+    },
+    {
+      "id": "5cd2",
+      "name": "pants",
+      "price": "1999",
+      "description": "pants in combo",
+      "category": "Men",
+      "image": "https://cdn.pixabay.com/photo/2025/04/23/07/30/jeans-trousers-9551973_640.jpg"
+    }
+  ],
+  "carts": [],
+  "addresses": [
+    {
+      "id": "bac7",
+      "name": "full name",
+      "street": "street",
+      "city": "city",
+      "state": "state",
+      "pincode": "123456",
+      "userId": "1757798541140"
+    },
+    {
+      "id": "7612",
+      "name": "name",
+      "street": "gfsfgvs",
+      "city": "svsfb",
+      "state": "dgvsfv2345",
+      "pincode": "2345",
+      "userId": "1757798731753"
+    },
+    {
+      "id": "508b",
+      "name": "gsfbdfvx",
+      "street": "sgsfbvsc",
+      "city": "sdgvsfv",
+      "state": "sdgsdfvs",
+      "pincode": "12345",
+      "userId": "1757798800704"
+    },
+    {
+      "id": "ef90",
+      "name": "niranjan",
+      "street": "street",
+      "city": "city",
+      "state": "state",
+      "pincode": "12345689",
+      "userId": 2
+    },
+    {
+      "id": "7dfd",
+      "name": "rajesh",
+      "street": "bidar",
+      "city": "bidar",
+      "state": "kar",
+      "pincode": "234567890",
+      "userId": "1757797462960"
+    },
+    {
+      "id": "d1fa",
+      "name": "nirry",
+      "street": "street",
+      "city": "city",
+      "state": "sate",
+      "pincode": "123456",
+      "userId": "1757800340677"
+    }
+  ],
+  "orders": [
+    {
+      "id": "e142",
+      "userId": "1757797462960",
+      "productId": "4442",
+      "address": {
+        "id": "1d6e",
+        "name": "niranjan",
+        "street": "street of area",
+        "city": "that city",
+        "state": "this state",
+        "pincode": "12345",
+        "userId": "1757797462960"
+      }
+    },
+    {
+      "id": "c11d",
+      "userId": "1757797462960",
+      "productId": "c820",
+      "address": {
+        "id": "1d6e",
+        "name": "niranjan",
+        "street": "street of area",
+        "city": "that city",
+        "state": "this state",
+        "pincode": "12345",
+        "userId": "1757797462960"
+      }
+    },
+    {
+      "id": "f4a0",
+      "userId": "1757798541140",
+      "productId": "27a6",
+      "name": "skirt",
+      "price": "999",
+      "image": "https://cdn.pixabay.com/photo/2016/07/16/14/14/dress-1522017_640.jpg",
+      "address": {
+        "id": "bac7",
+        "name": "full name",
+        "street": "street",
+        "city": "city",
+        "state": "state",
+        "pincode": "123456",
+        "userId": "1757798541140"
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "888d",
+      "userId": "1757798800704",
+      "productId": "27a6",
+      "name": "skirt",
+      "price": "999",
+      "image": "https://cdn.pixabay.com/photo/2016/07/16/14/14/dress-1522017_640.jpg",
+      "address": {
+        "id": "508b",
+        "name": "gsfbdfvx",
+        "street": "sgsfbvsc",
+        "city": "sdgvsfv",
+        "state": "sdgsdfvs",
+        "pincode": "12345",
+        "userId": "1757798800704"
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "faa8",
+      "userId": 2,
+      "productId": "a6e1",
+      "name": "top",
+      "price": "500",
+      "image": "https://cdn.pixabay.com/photo/2015/01/12/10/44/woman-597173_640.jpg",
+      "address": {
+        "id": "ef90",
+        "name": "niranjan",
+        "street": "street",
+        "city": "city",
+        "state": "state",
+        "pincode": "12345689",
+        "userId": 2
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "3c1d",
+      "userId": "1757797462960",
+      "productId": "a851",
+      "name": "watch",
+      "price": "5000",
+      "image": "https://cdn.pixabay.com/photo/2014/08/05/10/31/waiting-410328_640.jpg",
+      "address": {
+        "id": "7dfd",
+        "name": "rajesh",
+        "street": "bidar",
+        "city": "bidar",
+        "state": "kar",
+        "pincode": "234567890",
+        "userId": "1757797462960"
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "f69a",
+      "userId": "1757800340677",
+      "productId": "5cd2",
+      "name": "pants",
+      "price": "1999",
+      "image": "https://cdn.pixabay.com/photo/2025/04/23/07/30/jeans-trousers-9551973_640.jpg",
+      "address": {
+        "id": "d1fa",
+        "name": "nirry",
+        "street": "street",
+        "city": "city",
+        "state": "sate",
+        "pincode": "123456",
+        "userId": "1757800340677"
+      },
+      "status": "Pending"
+    }
+  ]
+}
