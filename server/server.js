@@ -95,6 +95,31 @@ app.get("/users", (req, res) => {
   res.json(users);
 });
 
+// --- User Registration ---
+app.post("/users", (req, res) => {
+  let users = readData("users");
+  const { name, email, password } = req.body;
+
+  // check if email already exists
+  if (users.find(u => u.email === email)) {
+    return res.status(400).json({ message: "Email already exists" });
+  }
+
+  const newUser = {
+    id: Date.now().toString(),
+    name,
+    email,
+    password,
+    role: "user"
+  };
+
+  users.push(newUser);
+  writeData("users", users);
+
+  res.status(201).json(newUser);
+});
+
+
 // Start server
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
